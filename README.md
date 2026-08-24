@@ -1,15 +1,8 @@
 # tech-notebook
-Personal administration notes, scripts, and playbooks.
-# Systems & Automation Notebook
-
-# Systems & Automation Notebook
-
-> Welcome to my Tech Notebook! I’m Bill Husk, and I use this repository to document practical Bash shell scripts, container management, version control workflows, and more as I learn and build. Feel free to explore!
-
 
 ---
 
-Welcome to my tech-notebook! I’m Bill Husk, and I use this repository to document practical Bash shell scripts, container management, version control workflows and more as I learn and build. Feel free to explore!
+> Welcome to my tech-notebook! I’m Bill Husk, and I use this repository to document practical Bash shell scripts, container management, version control workflows, and more as I learn and build. Feel free to explore!
 
 ---
 

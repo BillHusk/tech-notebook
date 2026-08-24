@@ -1,2 +1,30 @@
 # tech-notebook
 Personal administration notes, scripts, and playbooks.
+# Systems & Automation Notebook
+
+Personal technical reference guide for Linux administration, scripting, and version control.
+
+---
+
+## 📋 Notebook Index
+
+### 🐧 Bash & Terminal Operations
+* [Bash Scripting & System Administration Guide](./bash/bash.md)
+  * Covers shell loops, batch operations, file permissions (`chmod`), `glow` commands, and SSH key management.
+
+### 🐙 Git & SSH Setup
+* [Git & SSH Configuration Guide](./git/git-ssh-guide.md)
+  * Covers SSH key generation, switching remotes from HTTPS to SSH, and daily Git workflows.
+
+---
+
+## 💡 How to Read Notes in Terminal
+
+You can read any of these formatted Markdown files directly inside your Linux terminal using `glow`:
+
+```bash
+# View main notebook index
+glow README.md
+
+# View the Bash guide
+glow bash/bash.md

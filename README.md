@@ -9,7 +9,7 @@ Welcome to my tech-notebook! I’m Bill Husk, and I use this repository to docum
 ## :clipboard: Menu:
 
 ### :penguin: Bash & Terminal Operations
-* [Bash Scripting & System Administration Guide](./bash/bash.md)
+* [Bash Scripting & System Administration Guide](./bash-guide/bash-guide.md)
   * Covers shell loops, batch operations, file permissions (`chmod`), `glow` commands, and SSH key management.
 
 ### :octopus: Git & SSH Setup

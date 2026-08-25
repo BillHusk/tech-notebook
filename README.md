@@ -6,7 +6,7 @@ Welcome to my tech-notebook! I’m Bill Husk, and I use this repository to docum
 
 ---
 
-## :clipboard: Menu:
+## :book: Menu:
 
 ### :penguin: Bash & Terminal Operations
 * [Bash Scripting & System Administration Guide](./bash-guide/bash-guide.md)
